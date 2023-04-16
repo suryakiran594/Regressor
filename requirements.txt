@@ -5,3 +5,7 @@ seaborn
 -e .
 sklearn
 scikit-learn
+Flask
+request
+render_template
+jsonify
